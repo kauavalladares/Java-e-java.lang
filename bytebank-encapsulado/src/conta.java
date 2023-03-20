@@ -1,6 +1,6 @@
 public class conta {
 
-    // define um atributo como privado, onde so pode ser acessado por meio de metodos.
+    // define um atributo como privado, onde so pode ser acessado por metodos.
     private double saldo;
     private int agencia;
     private int numero;
