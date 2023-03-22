@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f4fcf839-746f-4fe4-a5db-b2ff0f21e7ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/.idea/artifacts/bytebank_herdado_conta_jar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/out/production/bytebank-herdado-conta/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bytebank-herdado-conta/src/META-INF/MANIFEST.MF" beforeDir="false" afterPath="$PROJECT_DIR$/bytebank-herdado-conta/src/META-INF/MANIFEST.MF" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +26,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/kaua.valladares/OneDrive - NTCONSULT/Documentos/curso de java/Java-e-java.lang/bytebank-encapsulado"
+    "last_opened_file_path": "C:/Users/kaua.valladares/OneDrive - NTCONSULT/Documentos/curso_de_java/Java-e-java.lang"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
